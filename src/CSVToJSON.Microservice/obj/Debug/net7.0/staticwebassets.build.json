@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "94Q8PwQnPe1aJOfH465gZgsP44Edznl0VfPWjUsc5tI=",
+  "Source": "CSVToJSON.Microservice",
+  "BasePath": "_content/CSVToJSON.Microservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
